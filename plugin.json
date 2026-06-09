@@ -1,0 +1,19 @@
+{
+    "id": "donations",
+    "name": "Donations",
+    "author": "nizxkyo",
+    "version": "1.0.0",
+    "description": "Add donation buttons to support your server host",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "Nizxkyo\\Donations",
+    "class": "DonationsPlugin",
+    "panels": null,
+    "panel_version": "^1.0.0-beta34",
+    "composer_packages": null,
+    "meta": {
+        "status": "enabled",
+        "status_message": null
+    }
+}
