@@ -33,6 +33,7 @@ Each donation link accepts the following:
 - URL - the full donation URL
 - Emoji - optional, displayed to the left of the label
 - Color - hex color for the button background
+- Black or White selection for button text
 
 ## Author
 
